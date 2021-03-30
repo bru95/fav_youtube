@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:fav_youtube/models/video.dart';
 import 'package:http/http.dart' as http;
 
-const API_KEY = '';
+const API_KEY = 'AIzaSyCi0kXSjMF2J1YFuBAl4n0lX_T409R3Zl8';
 
 class Api {
   String _search;
